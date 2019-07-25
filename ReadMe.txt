@@ -1,0 +1,1 @@
+进入apache-log4cxx-0.10.0->projects，用vs2010打开log4cxx.dsw,将log4cxx工程设为启动项目，然后编译

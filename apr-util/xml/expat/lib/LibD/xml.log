@@ -1,0 +1,7 @@
+﻿  Creating config.h from winconfig.h
+  Creating expat.h from expat.h.in
+  xmlparse.c
+  xmlrole.c
+  xmltok.c
+  正在生成代码...
+  xml.vcxproj -> F:\log4cxx\apr-util\xml\expat\lib\.\LibD\xml.lib
